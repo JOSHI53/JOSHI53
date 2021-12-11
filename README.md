@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JOSHI53
 - My Real Name is LAKSHAY.
-- I WANT YOU TO CALL ME JOSHI.
+- YOU CAN CALL ME JOSHI.
 
 - 🌱 I’m currently learning C++ and Python 
 - 

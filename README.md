@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @JOSHI53
 - My Real Name is Lakshya Bharadwaj.
 
-- I am currently a newbie in Coding but tying my best to crack the secret recipe to try code more efficiently and productively.
+- **About Me**
+    - I am currently a newbie in Coding but tying my best to crack the secret recipe to try code more efficiently and productively.
+    - I am a full time college student in VIT VELLORE , Vellore campus.
+    - Batch of 2025.
+    - Degree: Bachelors of Technology in Information and Technology.
+    - [Linkedin](https://www.linkedin.com/in/lakshay-bharadwaj-564470220)
+
 
 - 📫 How to reach me -- lbharadwaj53@gmail.com
 

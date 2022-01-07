@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @JOSHI53
-- My Real Name is LAKSHAY.
-- YOU CAN CALL ME JOSHI.
+- My Real Name is Lakshya Bharadwaj.
 
-- 🌱 I’m currently learning C++ and Python 
-- 
+-I am currently a newbie in Coding but tying my best to crack the secret recipe to try code more efficiently and productively.
+
 - 📫 How to reach me -- lbharadwaj53@gmail.com
 
 <!---

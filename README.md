@@ -7,7 +7,8 @@
     - Batch of 2025.
     - Degree: Bachelors of Technology in Information and Technology.
     - [Linkedin](https://www.linkedin.com/in/lakshay-bharadwaj-564470220)
-    ![LinkedIn](https://www.linkedin.com/in/joshi53/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+    
+    ![Linkedin](https://www.linkedin.com/in/joshi53/Linkedin-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 - 📫 How to reach me -- lbharadwaj53@gmail.com
 

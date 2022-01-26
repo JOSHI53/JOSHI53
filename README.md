@@ -6,7 +6,7 @@
     - I am a full time college student in VIT VELLORE , Vellore campus.
     - Batch of 2025.
     - Degree: Bachelors of Technology in Information and Technology.
-    - [Linkedin](https://www.linkedin.com/in/lakshay-bharadwaj-564470220)
+    - [Linkedin](https://www.linkedin.com/in/joshi53/)
 
 - 📫 How to reach me -- lbharadwaj53@gmail.com
 

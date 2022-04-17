@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JOSHI53
-- My Real Name is Lakshya Bharadwaj.
+- My Name is Lakshya Bharadwaj.
 
 - **About Me**
     - I am currently a newbie in Coding but tying my best to crack the secret recipe to try code more efficiently and productively.

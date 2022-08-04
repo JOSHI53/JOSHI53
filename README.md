@@ -2,13 +2,21 @@
 - My Name is Lakshya Bharadwaj.
 
 - **About Me**
-    - I am currently a newbie in Coding but tying my best to crack the secret recipe to try code more efficiently and productively.
-    - I am a full time college student in VIT VELLORE , Vellore campus.
-    - Batch of 2025.
-    - Degree: Bachelors of Technology in Information and Technology.
-    - [Linkedin](https://www.linkedin.com/in/joshi53/)
+    - I am a sophomore at Vellore Institute of Technology pursuing a BTech in Information Technology.
 
-- 📫 How to reach me -- lbharadwaj53@gmail.com
+    - I am really passionate about Web Development and also solving real-life problems with my coding skills.
+
+    - I like creating projects especially Responsive and Interactive Websites but also interested in Machine Learning-related stuff.
+
+    - I consider myself a proficient Frontend Developer but I aim to be a full-stack developer.
+
+    - Skills: HTML  CSS  JAVASCRIPT C/C++  PYTHON  JAVA
+
+    - I hold knowledge of:
+    - Object Oriented Programming, Web Design.
+
+    - Contact me directly at my E-Mail:  lbharadwaj53@gmail.com
+    - [Linkedin](https://www.linkedin.com/in/joshi53/)
 
 <!---
 JOSHI53/JOSHI53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

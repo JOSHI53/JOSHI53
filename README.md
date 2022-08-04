@@ -19,7 +19,8 @@
         - JAVA
 
     - I hold knowledge of:
-        - Object Oriented Programming, Web Design.
+        - Object Oriented Programming 
+        - Web Design
 
     
 - Contact me directly at my [E-Mail](lbharadwaj53@gmail.com)

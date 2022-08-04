@@ -10,13 +10,20 @@
 
     - I consider myself a proficient Frontend Developer but I aim to be a full-stack developer.
 
-    - Skills: HTML  CSS  JAVASCRIPT C/C++  PYTHON  JAVA
+    - Skills: 
+        - HTML  
+        - CSS  
+        - JAVASCRIPT
+        - C/C++  
+        - PYTHON  
+        - JAVA
 
     - I hold knowledge of:
-    - Object Oriented Programming, Web Design.
+        - Object Oriented Programming, Web Design.
 
-    - Contact me directly at my E-Mail:  lbharadwaj53@gmail.com
-    - [Linkedin](https://www.linkedin.com/in/joshi53/)
+    
+- Contact me directly at my E-Mail:  lbharadwaj53@gmail.com
+- [Linkedin](https://www.linkedin.com/in/joshi53/)
 
 <!---
 JOSHI53/JOSHI53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

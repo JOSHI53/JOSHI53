@@ -22,8 +22,8 @@
         - Object Oriented Programming, Web Design.
 
     
-- Contact me directly at my E-Mail:  lbharadwaj53@gmail.com
-- [Linkedin](https://www.linkedin.com/in/joshi53/)
+- Contact me directly at my [E-Mail](lbharadwaj53@gmail.com)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/joshi53/)
 
 <!---
 JOSHI53/JOSHI53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

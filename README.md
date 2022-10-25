@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JOSHI53
-- My Name is Lakshya Bharadwaj.
+- My Name is Lakshay Bharadwaj.
 
 - **About Me**
     - I am a sophomore at Vellore Institute of Technology pursuing a BTech in Information Technology.

@@ -17,10 +17,17 @@
         - C/C++  
         - PYTHON  
         - JAVA
+        - NodeJS
+        - ExpressJS
+        - ReactJS
+        - MongoDB
+        - Firebase
+        - AppWrite
 
     - I hold knowledge of:
         - Object Oriented Programming 
         - Web Design
+        - Product Management
 
     
 - Contact me directly at my [E-Mail](lbharadwaj53@gmail.com)

@@ -2,13 +2,13 @@
 - My Name is Lakshay Bharadwaj.
 
 - **About Me**
-    - I am a sophomore at Vellore Institute of Technology pursuing a BTech in Information Technology.
+    - I am a third-year student at Vellore Institute of Technology pursuing a BTech in Information Technology.
 
     - I am really passionate about Web Development and also solving real-life problems with my coding skills.
 
     - I like creating projects especially Responsive and Interactive Websites but also interested in Machine Learning-related stuff.
 
-    - I consider myself a proficient Frontend Developer but I aim to be a full-stack developer.
+    - I am a full-stack developer and an ML/DL/ Research enthusiast.
 
     - Skills: 
         - HTML  

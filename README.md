@@ -3,7 +3,7 @@
 - **About Me**
     - I am a third-year student at Vellore Institute of Technology pursuing a BTech in Information Technology.
 
-    - I am really passionate about Web Development and also solving real-life problems with my coding skills.
+    - I am really passionate about Web Development and solving real-life problems with my coding skills.
 
     - I like creating projects especially Responsive and Interactive Websites but also interested in Machine Learning-related stuff.
 
@@ -14,19 +14,32 @@
         - CSS  
         - JAVASCRIPT
         - C/C++  
-        - PYTHON  
+        - PYTHON
+        - Go 
         - JAVA
         - NodeJS
         - ExpressJS
         - ReactJS
+        - NextJS
+        - Fibre
+        - Gorm
         - MongoDB
         - Firebase
         - AppWrite
+        - MySQL
+        - PostgreSQL
+        - PhpMyAdmin
+        - AWS S3
+        - Dynamo DB
+        - Oracle Database
+
 
     - I hold knowledge of:
         - Object Oriented Programming 
         - Web Design
         - Product Management
+        - DevOps
+        - Deployment
 
     
 - Contact me directly at my [E-Mail](lbharadwaj53@gmail.com)

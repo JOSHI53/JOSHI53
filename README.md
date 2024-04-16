@@ -1,51 +1,22 @@
-- 👋 Hi, I’m @JOSHI53
+# Hi there, I'm Lakshay Bharadwaj! 👋
 
-- **About Me**
-    - I am a third-year student at Vellore Institute of Technology pursuing a BTech in Information Technology.
+I'm a pre-final year BTech student at VIT Vellore, passionate about web development, machine learning, and technology innovation.
 
-    - I am really passionate about Web Development and solving real-life problems with my coding skills.
+## About Me
 
-    - I like creating projects especially Responsive and Interactive Websites but also interested in Machine Learning-related stuff.
+-  I'm proficient in C, C++, Java, Python, JavaScript, and Go.
+-  My web development skills include HTML, CSS, React, Next.js, Node.js, Express.js, and styling frameworks like Tailwind and Bootstrap.
+-  I'm well-versed in database management systems such as Firebase, MongoDB, MySQL, Oracle, PostgreSQL, and Supabase.
+-  I've worked with various libraries and tools like OpenCV, Beautiful Soup, Selenium, TensorFlow, Scikit-Learn, NumPy, Matplotlib, and WebSockets.
+-  I have experience in cloud and DevOps technologies, including Docker, Jenkins, Nginx, Git, Github, AWS, GCP, and CI/CD practices.
+-  My proficiency extends to different operating systems, including Windows, Linux, macOS, Android, iOS, and Chrome OS.
 
-    - I am a full-stack developer and an ML/DL/ Research enthusiast.
+## Get in Touch
 
-    - Skills: 
-        - HTML  
-        - CSS  
-        - JAVASCRIPT
-        - C/C++  
-        - PYTHON
-        - Go 
-        - JAVA
-        - NodeJS
-        - ExpressJS
-        - ReactJS
-        - NextJS
-        - Fibre
-        - Gorm
-        - MongoDB
-        - Firebase
-        - AppWrite
-        - MySQL
-        - PostgreSQL
-        - PhpMyAdmin
-        - AWS S3
-        - Dynamo DB
-        - Oracle Database
+- 📧 Email: [lbharadwaj53@gmail.com](mailto:lbharadwaj53@gmail.com)
+- 💼 LinkedIn: [joshi53](https://www.linkedin.com/in/joshi53/)
+- 🌐 GitHub: [JOSHI53](https://github.com/JOSHI53)
 
+## Let's Connect!
 
-    - I hold knowledge of:
-        - Object Oriented Programming 
-        - Web Design
-        - Product Management
-        - DevOps
-        - Deployment
-
-    
-- Contact me directly at my [E-Mail](lbharadwaj53@gmail.com)
-- Connect with me on [Linkedin](https://www.linkedin.com/in/joshi53/)
-
-<!---
-JOSHI53/JOSHI53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm dedicated to staying at the forefront of technology, continuously honing my skills, and contributing to the industry's growth. I'm always open to exciting collaborations and opportunities to connect with like-minded individuals. Feel free to reach out to me directly via email for potential collaborations and discussions.

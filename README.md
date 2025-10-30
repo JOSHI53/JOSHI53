@@ -1,6 +1,6 @@
 # Hi there, I'm Lakshay Bharadwaj! 👋
 
-I'm a pre-final year BTech student at VIT Vellore, passionate about web development, machine learning, and technology innovation.
+I'm a Software Developer, just completed my BTech from VIT Vellore in Aug 2025, passionate about web development, machine learning, and technology innovation.
 
 ## About Me
 
